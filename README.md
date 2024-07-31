@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/a/qkgXSoR" alt="Azure Logo"/>
+<img src="https://imgur.com/5vW28rb" alt="Azure Logo"/>
 </p>
 
 # Azure-Basics
